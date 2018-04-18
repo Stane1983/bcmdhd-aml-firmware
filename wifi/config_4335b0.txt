@@ -1,0 +1,3 @@
+kso_enable=0
+ccode=XS
+regrev=38
